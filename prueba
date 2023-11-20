@@ -1,0 +1,52 @@
+<div id="carousel-262dd0ee6c-item-2836f18f38-tabpanel" class="cmp-carousel__item cmp-carousel__item--active swiper-slide swiper-slide-active" role="group" aria-label="Diapositiva 1 de 2" data-cmp-data-layer="{&quot;carousel-262dd0ee6c-item-2836f18f38&quot;:{&quot;@type&quot;:&quot;cep/components/carousel/item&quot;,&quot;repo:modifyDate&quot;:&quot;2023-09-18T15:08:35Z&quot;,&quot;dc:title&quot;:&quot;Experimentá la magia de la música&quot;}}" data-cmp-hook-carousel="item" data-swiper-slide-index="0" aria-hidden="false" style="width: 1224.18px; margin-right: 24px;"><div class="teaser hero content-on-bottom content-on-left">
+<div id="teaser-2836f18f38" class="cmp-teaser" data-cmp-data-layer="{&quot;teaser-2836f18f38&quot;:{&quot;@type&quot;:&quot;cep/components/teaser&quot;,&quot;repo:modifyDate&quot;:&quot;2023-09-18T15:08:35Z&quot;,&quot;dc:title&quot;:&quot;Experimentá la magia de la música&quot;}}">
+    
+        <div class="cmp-teaser__content">
+            
+    
+
+            
+    <h3 class="cmp-teaser__title">
+        Experimentá la magia de la música
+    </h3>
+
+            
+    
+
+            
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-2836f18f38-cta-771a813132" data-cmp-data-layer="{&quot;teaser-2836f18f38-cta-771a813132&quot;:{&quot;@type&quot;:&quot;cep/components/teaser/cta&quot;,&quot;dc:title&quot;:&quot;Descubrir&quot;,&quot;xdm:linkURL&quot;:&quot;/ar/es/offerings/coke-studio.html&quot;}}" data-cmp-clickable="" href="/ar/es/offerings/coke-studio" tabindex="0">Descubrir</a>
+
+    </div>
+
+        </div>
+        
+    <div class="cmp-teaser__image"><div id="teaser-2836f18f38-image" data-cmp-data-layer="{&quot;teaser-2836f18f38-image&quot;:{&quot;@type&quot;:&quot;cep/components/adaptiveImage&quot;,&quot;repo:modifyDate&quot;:&quot;2023-09-18T15:08:35Z&quot;,&quot;image&quot;:{&quot;repo:id&quot;:&quot;d59211ff-f394-463d-90c0-f5cf3f5d388a&quot;,&quot;repo:modifyDate&quot;:&quot;2023-07-13T18:18:37Z&quot;,&quot;@type&quot;:&quot;image/jpeg&quot;,&quot;repo:path&quot;:&quot;/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-desktop-onexp-2.jpg&quot;,&quot;repo:mobile:path&quot;:&quot;/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-mobile-onexp-2.jpg&quot;}}}" class="cmp-adaptive-image cmp-image" itemscope="" itemtype="http://schema.org/ImageObject">
+    
+        
+    <picture class="visible loaded">
+        <source srcset="/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-mobile-onexp-2.jpg/width100.jpg 100w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-mobile-onexp-2.jpg/width200.jpg 200w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-mobile-onexp-2.jpg/width380.jpg 380w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-mobile-onexp-2.jpg/width500.jpg 500w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-mobile-onexp-2.jpg/width767.jpg 767w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-mobile-onexp-2.jpg/width1024.jpg 1024w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-mobile-onexp-2.jpg/width1338.jpg 1338w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-mobile-onexp-2.jpg/width1960.jpg 1960w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-mobile-onexp-2.jpg/width2674.jpg 2674w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-mobile-onexp-2.jpg/width3840.jpg 3840w" media="(max-width: 1199px)" width="1198" height="2129">
+        <source srcset="/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-desktop-onexp-2.jpg/width100.jpg 100w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-desktop-onexp-2.jpg/width200.jpg 200w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-desktop-onexp-2.jpg/width380.jpg 380w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-desktop-onexp-2.jpg/width500.jpg 500w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-desktop-onexp-2.jpg/width767.jpg 767w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-desktop-onexp-2.jpg/width1024.jpg 1024w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-desktop-onexp-2.jpg/width1338.jpg 1338w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-desktop-onexp-2.jpg/width1960.jpg 1960w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-desktop-onexp-2.jpg/width2674.jpg 2674w,/content/dam/onexp/ar/es/hero-banners/coke-studio-arg-desktop-onexp-2.jpg/width3840.jpg 3840w" media="(min-width: 1200px)" width="1440" height="810">
+        
+        <img src="es/hero-banners/coke-studio-arg-desktop-onexp-2.jpg" class="cmp-image__image" itemprop="contentUrl" alt="">
+    </picture>
+
+
+        
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+    
+</div>
+
+    
+
+</div>
+</div>
